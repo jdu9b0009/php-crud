@@ -1,0 +1,13 @@
+[
+  { "id": 1, "firstname": "Komiljon", "lastname": "Riksiyev" },
+  { "id": 2, "firstname": "Sarvarbek", "lastname": "Fozilov" },
+  { "id": 3, "firstname": "Saidaxror", "lastname": "Botirov" },
+  { "id": 4, "firstname": "Abdurasuli", "lastname": "Navruzbayev" },
+  { "id": 5, "firstname": "Sharofat", "lastname": "Obruyeva" },
+  { "id": 12, "firstname": "Sevinch", "lastname": "Eronboyeva" },
+  { "id": 7, "firstname": "Sevinch", "lastname": "Eronboyeva" },
+  { "id": 8, "firstname": "Sevinch", "lastname": "Eronboyeva" },
+  { "id": 9, "firstname": "Sevinch", "lastname": "Eronboyeva" },
+  { "id": 10, "firstname": "Izzatilla", "lastname": "Absamatov" },
+  { "id": 11, "firstname": "Nasriddin", "lastname": "Afandi" }
+]
